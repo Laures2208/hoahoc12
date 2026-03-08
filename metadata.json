@@ -1,0 +1,8 @@
+{
+  "name": "Metallurgy Master: Metal Extraction Lab",
+  "description": "An interactive educational platform for learning metal extraction methods with AI tutoring and video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
